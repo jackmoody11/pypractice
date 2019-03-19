@@ -4,5 +4,4 @@ __pycache__/
 
 # Ignore data files
 *.tsv
-*.data
 *.DS_Store
